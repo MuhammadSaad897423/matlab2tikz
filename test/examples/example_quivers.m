@@ -77,4 +77,4 @@ try
 end
 
 % For the MATLAB parameters alpha=beta=0.33, we get theta = 18.263 degrees.
-
+% length of |delta|, i.e. something we don't know beforehand updated.
